@@ -1,0 +1,10 @@
+pywin32
+psutil
+fastapi
+uvicorn
+hmac
+pydantic
+requests
+pystray
+Pillow
+win10toast

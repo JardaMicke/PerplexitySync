@@ -1,0 +1,5 @@
+{
+  "allowed_dirs": ["C:/Projects", "D:/Workspace"],
+  "max_file_size": 10485760,
+  "enable_write": true
+}
